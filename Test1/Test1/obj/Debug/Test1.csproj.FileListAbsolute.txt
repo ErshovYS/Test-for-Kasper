@@ -1,0 +1,6 @@
+c:\users\asus\Desktop\Программы\С++\Test1\Test1\bin\Debug\Test1.exe.config
+c:\users\asus\Desktop\Программы\С++\Test1\Test1\bin\Debug\Test1.exe
+c:\users\asus\Desktop\Программы\С++\Test1\Test1\bin\Debug\Test1.pdb
+c:\users\asus\Desktop\Программы\С++\Test1\Test1\obj\Debug\Test1.exe
+c:\users\asus\Desktop\Программы\С++\Test1\Test1\obj\Debug\Test1.pdb
+c:\users\asus\Desktop\Программы\С++\Test1\Test1\obj\Debug\Test1.csprojResolveAssemblyReference.cache

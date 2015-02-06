@@ -1,0 +1,5 @@
+c:\users\asus\Desktop\Программы\С++\Test2\Test2\bin\Debug\Test2.exe.config
+c:\users\asus\Desktop\Программы\С++\Test2\Test2\bin\Debug\Test2.exe
+c:\users\asus\Desktop\Программы\С++\Test2\Test2\bin\Debug\Test2.pdb
+c:\users\asus\Desktop\Программы\С++\Test2\Test2\obj\Debug\Test2.exe
+c:\users\asus\Desktop\Программы\С++\Test2\Test2\obj\Debug\Test2.pdb
